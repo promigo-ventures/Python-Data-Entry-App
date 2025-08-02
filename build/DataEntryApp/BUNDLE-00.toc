@@ -1,0 +1,3 @@
+([('DataEntryApp',
+   '/Users/apple/Documents/PycharmProjects/DataEntryApp/dist/DataEntryApp',
+   'EXECUTABLE')],)
